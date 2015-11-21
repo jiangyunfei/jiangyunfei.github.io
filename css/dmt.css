@@ -1,11 +1,14 @@
 <style>
     p {
-        font-size: 18px;
+        font-size: 6px;
     }
     .row-adjust {
         margin-top: 15px;
         margin-bottom: 45px;
     }
+	.adjust-gm{
+		margin-top: 30px;
+	}
     .title-adjust{
         margin-top: 10px;
         margin-bottom: 50px;
@@ -17,4 +20,9 @@
     .align-right{
         text-align: right;
     }
+	.font-red{
+        font-size: 12px;
+    }
+	
+	
 </style>

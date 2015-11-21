@@ -1,0 +1,20 @@
+<style>
+    p {
+        font-size: 18px;
+    }
+    .row-adjust {
+        margin-top: 15px;
+        margin-bottom: 45px;
+    }
+    .title-adjust{
+        margin-top: 10px;
+        margin-bottom: 50px;
+    } 
+    .bottom-adjust{
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    .align-right{
+        text-align: right;
+    }
+</style>
